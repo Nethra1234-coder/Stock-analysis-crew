@@ -1,4 +1,4 @@
-# 📈 AI Stock Analyst Crew
+#  AI Stock Analyst Crew
 
 A multi-agent AI system that autonomously researches, analyses, and generates 
 BUY/HOLD/SELL investment recommendations for any stock ticker.
